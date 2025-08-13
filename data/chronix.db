@@ -1,0 +1,6 @@
+id INTEGER PRIMARY KEY AUTOINCREMENT
+app_name TEXT
+app_path TEXT
+start_time TEXT
+end_time TEXT
+duration_sec INTEGER
