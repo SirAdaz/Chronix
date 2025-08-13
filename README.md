@@ -15,10 +15,8 @@
 
 ### 🎨 Interface utilisateur
 - **Thème sombre** avec accents néon (bleu, violet, vert, orange)
-- **Design moderne** inspiré des dashboards de développeur
 - **Mise à jour en temps réel** des statistiques
 - **Navigation intuitive** par onglets
-- **Responsive** et adaptatif
 
 ## 📋 Prérequis
 
@@ -186,27 +184,6 @@ rm chronix.db
 # Relancer l'application (nouvelle base créée automatiquement)
 ```
 
-## 🤝 Contribution
+## Auteur
 
-Les contributions sont les bienvenues ! Pour contribuer :
-
-1. Fork le projet
-2. Créez une branche pour votre fonctionnalité
-3. Committez vos changements
-4. Poussez vers la branche
-5. Ouvrez une Pull Request
-
-## 📝 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## 🙏 Remerciements
-
-- **PyQt6** pour l'interface graphique moderne
-- **psutil** pour la détection des processus
-- **matplotlib** pour les visualisations
-- **SQLite** pour la base de données
-
----
-
-**Développé avec ❤️ pour une meilleure gestion du temps** 
+- **SirAdaz** – [GitHub](https://github.com/SirAdaz)
